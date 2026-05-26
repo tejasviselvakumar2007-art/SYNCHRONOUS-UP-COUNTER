@@ -54,8 +54,9 @@ begin
 end
 endmodule
 ```
-Developed by:DHIVYASHREE.R
-RegisterNumber:25016639
+Developed by:Tejasvi S
+
+RegisterNumber:25018480
 
 
 **RTL LOGIC UP COUNTER**
